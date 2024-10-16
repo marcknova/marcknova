@@ -9,11 +9,16 @@
 
 <div width="280">
 
-### 🖥️ I am a computer system engineer, currently I work as Mobile Development with expo router, TS and Zustand, Sqlite. I finished my degree as system engineer 2 years ago. I love my career and to learn and build something productive, innovative and creative.
-</div>
-<div width="280">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh2b3g2NW12cmtnMDNuZGpmcm5jcnU5bXF1MjZ2cHpiYnY4eDFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeAk6zYaR3gCk/giphy.gif" width="280"/>
-</div>   
+
+
+<span> 
+
+### 🖥️ I'm a computer system engineer, currently I work as Mobile Development with expo router, TS and Zustand, Sqlite. I finished my degree as system engineer 2 years ago. I love my career and to learn and build something productive, innovative and creative.</span> 
+
+<span>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh2b3g2NW12cmtnMDNuZGpmcm5jcnU5bXF1MjZ2cHpiYnY4eDFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeAk6zYaR3gCk/giphy.gif" width="350" />
+</span>
+
 
 ### 🚀 I'm currently working with the following technologies...
 
@@ -86,3 +91,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+h1 {
+  text-align: center;
+}
+</style>
