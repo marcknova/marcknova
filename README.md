@@ -4,9 +4,6 @@
 
 <div>
   <div>
-  
-  ### ⚡ About Me
-
 <div width="280">
 
 ---
@@ -21,7 +18,7 @@
 
 🤝 Open to remote frontend or mobile roles.
 
----
+
 
 </span> 
 
@@ -29,7 +26,7 @@
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh2b3g2NW12cmtnMDNuZGpmcm5jcnU5bXF1MjZ2cHpiYnY4eDFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeAk6zYaR3gCk/giphy.gif" width="400" />
 </span>
 
----
+
 
 ### 🚀 Currently Working With
 
