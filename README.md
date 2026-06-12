@@ -13,7 +13,21 @@
 
 <span> 
 
-### 🖥️ I'm a computer system engineer, currently I work as Mobile Development with Expo, TS and Zustand, Sqlite. I finished my degree as system engineer 2 years ago. I love my career and to learn and build something productive, innovative and creative.</span> 
+### 🖥️ Frontend Developer with 3+ years of experience building web and mobile 
+applications — from CMS-driven dealer platforms and REST API automation 
+to React Native apps in production.
+
+I specialize in clean, maintainable code and practical solutions: 
+reverse-engineered an identity server auth flow to automate bulk content 
+migration, built a native Expo plugin to block GPS spoofing without 
+ejecting, and delivered full mobile apps integrating Stripe, Zustand, 
+and EAS Build.
+
+Currently expanding into full-stack with React 19 + Spring Boot.
+Open to remote frontend or mobile roles with USD/EUR compensation.
+
+**Stack:** JavaScript · TypeScript · React Native · Expo · PHP · 
+HTML/CSS/SCSS · REST APIs · Git · Squidex · Umbraco</span> 
 
 <span>
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh2b3g2NW12cmtnMDNuZGpmcm5jcnU5bXF1MjZ2cHpiYnY4eDFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeAk6zYaR3gCk/giphy.gif" width="400" />
