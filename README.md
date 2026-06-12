@@ -13,7 +13,7 @@
 
 <span> 
 
-### 🖥️ Frontend Developer with 3+ years of experience building web and mobile 
+🖥️ Frontend Developer with 3+ years of experience building web and mobile 
 applications — from CMS-driven dealer platforms and REST API automation 
 to React Native apps in production.
 
